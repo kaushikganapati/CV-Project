@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(to right,rgb(37, 70, 219),rgb(82, 235, 202));
+    padding: 20px;
+}
+.container{
+    
+}
+img{
+    height: 220px;
+    width: 150px;
+    border: 3px solid black;
+    border-radius: 10%;
+    float: left;
+}
+
+.bio{
+    float:left;
+    padding: 20px;
+    font-family:italic;
+}
+
+.media{
+    float: right;
+    padding: 20px;
+
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+    border: black solid ;
+    margin: 20px auto;
+    border-bottom:none;
+}
+
+.information{
+    float: left;
+    width: 30%;
+}
+
+.text{
+    width: 70%;
+    float: left;
+}
+
+.edu{
+    width: 30%;
+    float: left;
+}
+
+.school{
+    width: 70%;
+    float: left;
+}
+
